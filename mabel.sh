@@ -1,5 +1,2 @@
 #!/bin/bash
-echo "contribution"
-df -h
-free -m
-lsblk
+echo "my contribution to project"
